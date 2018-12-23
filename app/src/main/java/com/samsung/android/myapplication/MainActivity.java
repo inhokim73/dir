@@ -14,7 +14,7 @@ public class MainActivity extends AppCompatActivity {
     private static final String  STAG;
 
     static {
-        STAG = "MainActivity...ihkim";
+        STAG = "MainActivity...dkfsjdfsdfgs";
     }
 
     private TextView mTextMessage;
